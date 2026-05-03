@@ -1,0 +1,6 @@
+﻿image_id,timestamp,violation_type,location,date,hour,weekday
+IMG_001.jpg,2024-12-31 08:30:00,未戴安全帽,A工地,2024-12-31,8,Tuesday
+IMG_002.jpg,2024-12-31 09:15:00,未穿反光背心,A工地,2024-12-31,9,Tuesday
+IMG_003.jpg,2024-12-31 10:00:00,未戴安全帽,B工地,2024-12-31,10,Tuesday
+IMG_004.jpg,2024-12-31 14:30:00,施工架未固定,A工地,2024-12-31,14,Tuesday
+IMG_005.jpg,2024-12-31 15:30:00,未戴安全帽,A工地,2024-12-31,15,Tuesday
